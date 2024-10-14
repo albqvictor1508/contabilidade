@@ -1,0 +1,11 @@
+SALDO EM TESOURARIA(ST) => (Caixa + Aplicações financeiras) - Emprestimos e financiamento
+
+(Caixa + Aplicações financeiras) = Ativo Circulante Financeiro(ACF)
+
+Emprestimos e financiamento = Passivo Circulante Financeiro(PCF)
+
+Ativo Circulante => Ativo Circulante Operacional(ACO) + Ativo Circulante Financeiro(ACF)
+
+Ou seja, se precisa do ACO, SÓ DIMINUIR O CIRCULANTE DO ACF
+
+NECESSIDADE DE CAPITAL DE GIRO(NCG) => ACO - PCO 
